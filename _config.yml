@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jair Certorio"
+title                    : "Jair Certorio's Website"
 title_separator          : "-"
 name                     : &name "Jair G Certorio"
 description              : &description "PhD Candidate in Electrical and Computer Engineering"
@@ -22,9 +22,9 @@ repository               : "jcert/jcert.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Jair Certorio"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "PhD Candidate in Electrical and Computer Engineering"
   location         : "Maryland, USA"
   employer         : "University of Maryland - College park"
   uri              : # URL
@@ -206,12 +206,12 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+  #portfolio:
+  #  output: true
+  #  permalink: /:collection/:path/
+  #talks:
+  #  output: true
+  #  permalink: /:collection/:path/
 
 
 # Defaults
@@ -252,23 +252,14 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
   # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+  #- scope:
+  #    path: ""
+  #    type: talks
+  #  values:
+  #    layout: talk
+  #    author_profile: true
+  #    share: true
 
 
 # Sass/SCSS
