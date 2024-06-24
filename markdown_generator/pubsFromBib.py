@@ -26,6 +26,14 @@ import re
 
 #todo: incorporate different collection types rather than a catch all publications, requires other changes to template
 publist = {
+    "preprint": {
+    "file" : "preprint.bib",
+    "venuekey": "publisher",
+    "venue-pretext": "Preprint on ",
+    "collection" : {"name":"publications",
+                    "permalink":"/publication/"}
+    
+    },
     "proceeding": {
         "file" : "proceedings.bib",
         "venuekey": "booktitle",
