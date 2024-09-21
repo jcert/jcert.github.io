@@ -55,17 +55,5 @@ check that all sets are describe with either `:` or `|`, but not both
 
 
 
-post-doc ? 
-https://euraxess.ec.europa.eu
-
-https://universitypositions.eu/
-
-
-https://academicpositions.com/
-
-
-https://www.reddit.com/r/ControlTheory/wiki/academic_positions/#wiki_overall_organization
-
-
 
 
