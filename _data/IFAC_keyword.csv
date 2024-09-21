@@ -1,0 +1,386 @@
+IFAC Technical Area,Subject Area,Keyword
+,,
+1. Systems and Signals,"1.1 Modelling, Identification and Signal Processing",automatic methods
+ , ,experiment design
+ , ,fault detection
+ , ,identification methods
+ , ,linear/nonlinear models
+ , ,measures of model fit
+ , ,model fitting
+ , ,model selection
+ , ,robust estimation
+ , ,system model validation
+ , ,tracking and adaptation
+ ,1.2 Adaptive and Learning Systems,adaptive systems
+ , ,autotuning
+ , ,fault detection and isolation
+ , ,gain scheduling
+ , ,iterative schemes
+ , ,linear parameterically varying (LPV) methodologies
+ , ,switching controllers
+ ,1.3 Discrete Event and Hybrid Systems,command-control systems
+ , ,computer networks
+ , ,embedded system
+ , ,manufacturing systems
+ , ,supply chains
+ , ,transportation systems
+ ,1.4 Stochastic Systems,estimation theory
+ , ,learning theory
+ , ,randomized methods
+ , ,realization theory
+ , ,simulation of dynamic systems
+ , ,statistical analysis
+ , ,stochastic control
+ , ,synthesis of stochastic systems
+ , ,system identification
+ ,1.5 Networked Systems,Collaborative systems
+ , ,Complex system management
+ , ,Control of networks
+ , ,Heterogeneous wireless networks
+ , ,Information systems & infrastructure
+ , ,Multi-agent systems
+ , ,Network security
+ , ,Network-based computing systems
+ , ,Networked control systems
+ , ,Sensor networks
+ , ,Space-based networking
+ , ,Wireless communications
+2. Design Methods,2.1 Control Design,adaptive control
+ , ,analytic design
+ , ,controller constraints and structure
+ , ,data-based control
+ , ,decentralization
+ , ,digital implementation
+ , ,fault-tolerant
+ , ,model validation in design methods
+ , ,parametric optimization
+ , ,supervision and testing
+ ,2.2 Linear Control Systems,complex systems
+ , ,descriptor systems
+ , ,fractional systems
+ , ,infinite-dimensional systems
+ , ,n-dimensional systems
+ , ,positive systems
+ , ,systems with time-delays
+ , ,time-invariant
+ , ,time-varying systems
+ ,2.3 Non-Linear Control Systems,application of nonlinear analysis and design
+ , ,asymptotic stabilization
+ , ,control of constrained systems
+ , ,disturbance rejection
+ , ,nonlinear observer and filter design
+ , ,output feedback control
+ , ,regulation
+ , ,robust control of nonlinear systems
+ , ,tracking
+ ,2.4 Optimal Control,algorithms and software
+ , ,industrial applications of optimal control
+ , ,large scale optimization problems and methods
+ , ,modeling for control optimization
+ , ,non-smooth and discontinuous problems
+ , ,optimization under uncertainties
+ , ,singularities in optimization
+ , ,static optimization problems
+ ,2.5 Robust Control,achievable controller performance
+ , ,analysis of systems with uncertainties
+ , ,modeling by identification
+ , ,numerical algorithms
+ , ,optimal controller synthesis for systems with uncertainties
+ , ,optimization-based controller synthesis
+ , ,relaxation
+"3. Computers, Cognition and Communication",3.1 Computers for Control,Computers for Control
+ ,3.2 Cognition and Control,computational issues
+ , ,computer-aided design tools
+ , ,fuzzy and neural systems relevant to control
+ , ,Knowledge-based
+ , ,operation constraints
+ , ,performance objectives
+ , ,structure optimisation by genetic algorithms
+ ,"3.3 Computers, Communication and Telematics",maritime and aerospace systems
+ , ,remote and distributed control
+ , ,remote equipment servicing
+ , ,remote industrial production
+ , ,remote sensor data acquisition
+ , ,robots for hazardous environments
+ , ,smart homes
+ , ,tele-diagnosis
+ , ,tele-education
+ , ,tele-maintenance
+ , ,tele-medicine
+ , ,"tele-operation,"
+ , ,tele-presence
+ , ,telecommunication-based automation systems
+ , ,the Internet
+ , ,traffic control
+"4. Mechatronics, Robotics and Components",4.1 Components and Technologies for Control,auto-configuration
+ , ,data-fusion
+ , ,dedicated circuits
+ , ,diagnosis and self-diagnosis
+ , ,fuzzy logic
+ , ,genetic algorithms
+ , ,hardware/software co-design
+ , ,intelligent controllers
+ , ,measurement &actuation
+ , ,microactuators
+ , ,microsensors
+ , ,microsystems
+ , ,microsystems: nano- and micro-technologies
+ , ,multi sensor systems
+ , ,neural networks technology
+ , ,perception devices and positioning systems
+ , ,rule-based approaches
+ , ,self-learning
+ , ,virtual instruments
+ ,4.2 Mechatronic Systems,application of mechatronic principles
+ , ,design methodologies
+ , ,Hardware-in-the-loop Simulation
+ , ,Identification and Control Methods
+ , ,Man-Machine Interfaces
+ , ,Modelling
+ ,4.3 Robotics,autonomous systems
+ , ,embedded robotics
+ , ,flying robots
+ , ,guidance navigation and control
+ , ,information and sensor fusion
+ , ,intelligent robotics
+ , ,mobile robots
+ , ,networked robotics
+ , ,perception and sensing
+ , ,Robotics Technology
+ , ,robots manipulators
+ , ,telerobotics
+ ,4.4 Cost Oriented Automation,Advances in automation education
+ , ,Architectures and software tools for enterprise integration and networking
+ , ,Cost reduction with e-maintenance systems
+ , ,e-technologies in networked product development and manufacturing
+ , ,Efficient use of intelligent machinery and automation systems
+ , ,Human collaboration with automation systems
+ , ,Integration technologies applied to product development and manufacturing
+ , ,Low cost automation case studies
+ , ,"Low cost micro-, electro-mechanical systems (MEMS)"
+ , ,Sensor and data fusion
+ , ,SME-oriented automation and decision support systems
+ ,4.5 Human Machine Systems,decision making and cognitive processes
+ , ,design methodology
+ , ,human operator support
+ , ,intelligent interfaces
+ , ,modeling of human performance
+ , ,real and virtual environments
+ , ,selection and training criteria
+ , ,task allocation-sharing and job design
+ , ,work organization
+5. Manufacturing Systems,5.1 Manufacturing Plant Control,Dependable Manufacturing Systems Control
+ , ,Discrete Event Systems in Manufacturing
+ , ,e-Manufacturing Technologies and Facilitie
+ , ,IMS Modeling and Experiments
+ , ,Manufacturing Automation over Networks
+ , ,Production & Logistics over Manufacturing Networking
+ ,5.2 Manufacturing Modelling for Management and Control,job and activity scheduling
+ , ,logistics in manufacturing
+ , ,modeling of assembly units
+ , ,modeling of manufacturing operations
+ , ,procedures for process planning
+ , ,process supervision
+ , ,production activity control
+ , ,production planning and control
+ , ,quality assurance and maintenance
+ ,5.3 Enterprise Integration and Networking,Collaborative Networked Organizations principles
+ , ,enterprise model validation
+ , ,enterprise networks design and implementation.
+ , ,protocols and Information Communication
+ , ,Unified Enterprise Modelling Language
+ ,5.4 Large Scale Complex Systems,analysis of heterogeneous knowledge in modelling
+ , ,decentralisation
+ , ,decision support systems
+ , ,dynamics and control of large scale structures
+ , ,hierarchical multilevel and multilayer control
+ , ,identification and model reduction
+ , ,intelligent control
+ , ,knowledge discovery (data mining)
+ , ,large scale complex systems
+ , ,methodologies and tools for analysis of complexity
+ , ,modelling and control of discrete event and hybrid systems
+ , ,supervisory control
+6. Power and Process Systems,6.1 Chemical Process Control,advanced materials industries
+ , ,chemical industries
+ , ,food industries
+ , ,paper & pulp industries
+ , ,petrochemical industries
+ , ,petroleum industries
+ , ,pharmaceutical industries
+ , ,speciality chemical industries
+ , ,Systems modeling and analysis
+ ,"6.2 Mining, Mineral and Metal Processing",advanced process control
+ , ,data mining and multivariate statistics
+ , ,expert systems
+ , ,fault diagnosis and fault tolerant control
+ , ,fuzzy control
+ , ,identification and modelling
+ , ,maintenance scheduling and production planning
+ , ,measurement and instrumentation
+ , ,monitoring of product quality and control performance
+ , ,neural networks in process control
+ , ,process observation and parameter estimation
+ , ,process optimisation
+ , ,robotics
+ ,6.3 Power Plants and Power Systems,analysis and control in deregulated power systems
+ , ,constraint and security control concepts
+ , ,dynamic interactions of power plants
+ , ,flow calculations
+ , ,load forecast
+ , ,modelling operation and control of power systems
+ , ,real time simulation and dispatching
+ , ,security monitoring
+ , ,technical impact of deregulation on power system control
+ , ,test and documentation
+ , ,tools for control system design
+ ,"6.4 Fault Detection,Supervision&Safety of Techn.Processes-SAFEPROCESS",Artificial neural networks
+ , ,Design measures for robustness
+ , ,Expert systems
+ , ,Fault modelling
+ , ,Fuzzy logic and rough sets
+ , ,Neuro-fuzzy approaches
+ , ,Pattern recognition
+ , ,Probabilistic safety assessment
+ , ,Qualitative reasoning
+ , ,Reliability and safety analysis
+ , ,Safety evaluation tools
+ , ,Safety standards and qualification
+ , ,Signal analysis
+ , ,Statistical approaches
+ , ,Testing and evaluation of safety systems
+7. Transportation and Vehicle Systems,7.1 Automotive Control,automobile power trains
+ , ,automotive sensors
+ , ,distributed discrete-event systems
+ , ,electric
+ , ,fuel cell
+ , ,general automobile/road-environment strategies
+ , ,hybrid and alternative drive vehicles
+ , ,in-vehicle communication networks
+ , ,information displays/systems
+ , ,integrated traffic management
+ , ,intelligent driver aids
+ , ,man-machine interfaces
+ , ,"Modeling, supervision, control and diagnosis of automotive systems"
+ , ,propulsion
+ , ,vehicle dynamic systems
+ ,7.2 Marine Systems,autonomous craft
+ , ,control architectures
+ , ,fault diagnosis
+ , ,guidance and control
+ , ,human factors in marine systems
+ , ,marine structures
+ , ,modelling and identification
+ , ,monitoring and surveillance
+ , ,optimization and planning
+ , ,subsea systems
+ , ,underwater vehicles
+ ,7.3 Aerospace,Autonomous systems
+ , ,Avionics and on-board equipments
+ , ,Control of systems in vehicles
+ , ,"Decision making and autonomy, sensor data fusion"
+ , ,"Flight dynamics identification, formation flying"
+ , ,"Guidance, navigation and control of vehicles"
+ , ,Health monitoring and diagnosis
+ , ,High accuracy pointing
+ , ,Man-in-the-loop systems
+ , ,Mission control and operations
+ ,7.4 Transportation Systems,automatic control
+ , ,human factors in vehicular system
+ , ,human-machine interface
+ , ,information processing and decision support
+ , ,intelligent transportation systems
+ , ,modeling and simulation
+ , ,navigation
+ , ,optimization
+ , ,real-time operations
+ , ,safety
+ , ,simulation
+ , ,surveillance
+ , ,transportation logistics
+ ,7.5 Intelligent Autonomous Vehicles,architectures
+ , ,human and vehicle interaction
+ , ,mission and motion control
+ , ,navigation and cooperative navigation techniques
+ , ,planning
+ , ,sensing
+ , ,sensor integration and perception
+ , ,SLAM
+ , ,teleoperation
+8. Bio- and Ecological Systems,8.1 Control in Agriculture,Information Technologies and Ergonomics
+ , ,Modeling and Control of Agriculture
+ , ,Post-harvesting and Food Processing
+ , ,Robotics and Mechatronics for Agricultural Automation
+ ,8.2 Modelling and Control of Biomedical Systems,biomedical imaging systems
+ , ,"biomedical system modeling, simulation and visualization"
+ , ,biosignals analysis and interpretation
+ , ,"cellular, metabolic, cardiovascular, neurosystems"
+ , ,control of physiological and clinical variables
+ , ,"control of voluntary movements, respiration"
+ , ,decision support and control
+ , ,"developments in measurement, signal processing"
+ , ,"healthcare management, disease control, critical care"
+ , ,identification and validation
+ , ,intensive and chronic therapy
+ , ,kinetic modelling and control of biological systems
+ , ,"model formulation, experiment design"
+ , ,pharmacokinetics and drug delivery
+ , ,quantification of physiological parameters for diagnosis and treatment assessment
+ , ,rehabilitation engineering and healthcare delivery
+ , ,tracer kinetic modeling using various imaging systems
+ ,8.3 Modelling and Control of Environmental Systems,integration of technology and environment
+ , ,management of natural resources
+ , ,natural and environmental systems
+ , ,planning and management for participatory decision making
+ , ,"risk analysis, impact evaluation"
+ ,8.4 Biosystems and Bioprocesses,Bioinformatics
+ , ,Data mining tools
+ , ,Downstream processing
+ , ,Dynamics and control
+ , ,Fault diagnosis and monitoring
+ , ,food engineering
+ , ,Integrated bioprocessing: case studies
+ , ,Life cycle analysis
+ , ,"mammalian, insect and plant cell technology"
+ , ,Metabolic engineering
+ , ,microbial technology
+ , ,Modelling and identification
+ , ,Parameter and state estimation
+ , ,pharmaceutical processes
+ , ,"Scheduling, coordination, optimization"
+ , ,wastewater treatment processes
+9. Social Systems,9.1 Economic and Business Systems,Agent-based models
+ , ,Applications in finance
+ , ,Artificial intelligence
+ , ,Decision support and expert systems
+ , ,Dynamic games
+ , ,Econometric models
+ , ,Estimation and Identification of Economic Systems
+ , ,Forecasting
+ , ,General equilibrium models
+ , ,Genetic and evolutionary programming
+ , ,Modeling languages
+ , ,Models with explicit expectations and learning
+ , ,Multi-country models
+ , ,National and Regional Economies
+ , ,Neural networks in social systems
+ , ,Operations research applications
+ , ,Optimal control
+ , ,Software tools and algorithms
+ ,9.2 Social Impact of Automation,engineering ethics
+ , ,"environmental, health and safety implications of automation"
+ , ,professional responsibility
+ , ,public policy
+ , ,social effects of automation
+ , ,socially acceptable alternatives for automation design
+ , ,socially desirable requirements for automation development
+ ,9.3 Developing Countries,Developing countries support
+ ,9.4 Control Education,accessibility of control systems education
+ , ,computer aided design
+ , ,Control engineering education in developing countries
+ , ,"Control engineering laboratories, experiments"
+ , ,distance and virtual education technologies
+ , ,e-learning and internet-based teaching technologies
+ , ,Methodology for improving the theory and practice of control
+ , ,technology transfer between academia and industry
+ ,9.5 Supplemental Ways of Improving International Stability - SWIIS,"Identify, define, and improve factors that significantly influence international stability"

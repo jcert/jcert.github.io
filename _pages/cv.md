@@ -17,25 +17,25 @@ Education
 Work experience
 ======
 * 2021-now: Research Assistant - University of Maryland
-  * Duties included: ...
+  * I do research on population games and evolutionary dynamics, both on properties of these frameworks and applications involving strategic interactions of a large number of agents.
   * Advisor: Nuno C. Martins, Co-advisor: Richard J. La
   
 
 
 *  2018-2019: Embedded Systems Engineer - MKD Tecnologia
-   * Developed firmware and hardware for automation projects, mostly in C languange, working with ARM microcontrollers for low-power devices, ESP32 for Bluetooth communication and older architectures, such as 8051 and PIC16. 
-   * I also did PCB layouts aiming to reduce production cost and improve our products, while providing remote support to our technical team and clients. During my time as developer the hardware cost was reduced by more than 20%.
-   * In another project, I wrote MikroTik scripts to maintain a hotspot service and configured FreeRadius as AAA, using the router API through Python scripts to remote update the MikroTiks and monitor them.
-   * I did field support for our automation projects (sometimes travelling to remote farms!)
-   * Configured services on Linux servers using Docker and developed Ionic companion apps for our embedded projects.
-   * Debugged and fixed WPF C#, SQL and PostgreSQL code from our clients, which interfaced with our company's hardware.
+   * Developed firmware and hardware for automation projects, mostly using C, working with ARM microcontrollers for low-power devices, ESP32 for Bluetooth communication and older architectures, such as 8051 and PIC16. 
+   * I also did PCB layouts, reducing production cost and improving our products. During my time as developer the hardware cost was reduced by more than 20%. I also provided remote support to our technical team and clients.
+   * I did field support a few times for our automation producsts (travelling to remote farms!) 
+   * In another project, I wrote MikroTik scripts to maintain a hotspot service and configured FreeRadius as AAA, using the routers API through Python scripts to remote update the MikroTiks and monitor them.
+   * Configured Linux servers using Docker and developed Ionic companion apps for our embedded projects.
+   * Debugged and fixed our costumer's code that interface with our products (WPF C#, SQL, and PostgreSQL).
 
 
 * 2017-2018: Intern - Universidade Estadual de Maringá
    * As an electrical engineering intern in the Departamentos de Obras e Projetos I have:
         Restructured the IT system of the Electrical Engineering team.
-        Participated in construction site inspections, wrote reports and helped project new electrical installations. 
-        Quoted material for the university constructions and wrote part of the estimated construction cost report.
+        Took part in construction site inspections, wrote reports and helped project new electrical installations. 
+        I also quoted material for the university construction projects and wrote part of the estimated construction cost report.
 
 
 
@@ -43,31 +43,34 @@ Work experience
 Skills
 ======
 * Programming
-  * Regularly: Julia, Python, C
-  * Some usage: Verilog, SystemVerilog, SQL, JS 
-  * Close to never: Matlab, C#, Assembly
+  * Experienced: Julia, Python, C
+  * Capable: Verilog, SystemVerilog, SQL, JS 
+  * Basics: Matlab, C#, Assembly
 * Microcontrollers: ARM (STM32, TM4C), MSP430, ESP32.
+* CAD: LTSpice, KiCad, Altium Designer
 
 
 Languages
 ======
 * Fluent: English, Portuguese
-* Basic: Italian, Spanish
+* Basic: Italian
 
 
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
+    {% include archive-single-pub-cv.html %}
   {% endfor %}</ul>
-  
-[//]: # Talks
-[//]: # ======
-[//]: #  <ul>{% for post in site.talks reversed %}
-[//]: #    {% include archive-single-talk-cv.html  %}
-[//]: #  {% endfor %}</ul>
-  
+
+{% comment %}  
+Talks
+======
+<ul>{% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html  %}
+{% endfor %}</ul>
+{% endcomment %}  
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
@@ -86,7 +89,8 @@ Awards
 Service and leadership
 ======
 * HackerSpace Maringá - Dec 2012 - Present
-   * Co-founder and former vice-president.
+   * Co-founder 
+   * Former vice-president.
 
 * ECEGSA - Aug 2021 - Present
    * Board member

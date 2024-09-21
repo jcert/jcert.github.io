@@ -1,10 +1,31 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am an Electrical Engineering PhD Student at the University of Maryland researching in control theory and evolutionary game theory. With coursework on control, optimization and stochastic processes. Previously worked with embedded systems, electronic design, software development and project budgeting. I have had leadership experience as the president of the EE student association and project manager in the IEEE student branch during my undergrad. Additionally, I served as vice-president for the local hackerspace. Also, I participated in competitions and projects managing teams of up to 5 people.
+## About
+
+I am an Electrical Engineering PhD candidate at the University of Maryland in the [Deparment of Electrical and Computer Engineering](https://ece.umd.edu/), and I research control theory and evolutionary game theory. While at UMD, I was a teaching assistant for several courses, on controls, optimization, and FPGA development, and I took courses on controls, optimization, and stochastic processes. 
+
+
+Before starting my PhD, I received my B.Eng. from [Universidade Estadual de Maringá](https://uem.br/), Brazil, and worked on embedded systems, electronic design, software development and project budgeting.
+
+
+## Research Interests
+
+
+
+My research interests are in the intersection of control theory, game theory, and machine learning.  I am particularly interested in analyzing the dynamics of large-scale systems influenced by the strategic interactions of large populations of learning agents, and in data-driven techniques to determine stabilizing payoff mechanisms for such coupled systems.
+
+
+
+## Recent Publications
+
+  {% assign few_pubs =  site.publications | sort:"date" | reverse  %}
+  <ul>{% for post in few_pubs limit:3 %}
+    {% include archive-single-publication.html %}
+  {% endfor %}</ul>

@@ -11,18 +11,26 @@ A list of all the posts and pages found on the site. For you robots out there is
 
 <h2>Pages</h2>
 {% for post in site.pages %}
+{% unless post.output == false or post.label == "posts" or post.sitemap == false %}
   {% include archive-single.html %}
+{% endunless %}
 {% endfor %}
 
+
+{% if site.posts.output %}
 <h2>Posts</h2>
-{% for post in site.posts %}
+{% for post in site.posts limit:3%}
+  {% unless post.output == false or post.label == "posts" or post.sitemap == false %}
   {% include archive-single.html %}
+  {% endunless %}
 {% endfor %}
+{% endif %}
+
 
 {% capture written_label %}'None'{% endcapture %}
 
 {% for collection in site.collections %}
-{% unless collection.output == false or collection.label == "posts" %}
+{% unless collection.output == false or collection.label == "posts" or collection.sitemap == false %}
   {% capture label %}{{ collection.label }}{% endcapture %}
   {% if label != written_label %}
   <h2>{{ label }}</h2>
@@ -31,7 +39,11 @@ A list of all the posts and pages found on the site. For you robots out there is
 {% endunless %}
 {% for post in collection.docs %}
   {% unless collection.output == false or collection.label == "posts" %}
-  {% include archive-single.html %}
+    {% if collection.label == "teaching" %}
+      {% include archive-single-teaching.html %}
+    {% else %}
+      {% include archive-single.html %}
+    {% endif %}  
   {% endunless %}
 {% endfor %}
 {% endfor %}

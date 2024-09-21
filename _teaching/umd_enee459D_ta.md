@@ -5,7 +5,7 @@ type: "Undergraduate course ENEE459D"
 permalink:
 link: https://ece.umd.edu/course-schedule/course/ENEE459D
 venue: "University of Maryland, ECE Department"
-semester: "Spring 2022,Fall 2022"
+semester: "Spring 2022, Fall 2022"
 location: "College Park, MD, USA"
 ---
 

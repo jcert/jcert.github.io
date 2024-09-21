@@ -1,11 +1,17 @@
 ---
 permalink: /terms/
 title: "Terms and Privacy Policy"
+sitemap: false
 modified: 2016-06-06
 ---
 
 {% include base_path %}
 {% include toc %}
+
+
+## Ignore This!
+
+I don't collect any data or use tracking cookies.
 
 ## Privacy Policy
 

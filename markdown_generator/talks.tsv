@@ -1,5 +1,9 @@
 title	type	url_slug	venue	date	location	talk_url	description
-Talk 1 on Relevant Topic in Your Field	Talk	talk-1	UC San Francisco, Department of Testing	2012-03-01	San Francisco, California		This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
-Tutorial 1 on Relevant Topic in Your Field	Tutorial	tutorial-1	UC-Berkeley Institute for Testing Science	2013-03-01	Berkeley CA, USA	http://exampleurl.com	This is a description of your tutorial, note the different field in type. This is a markdown files that can be all markdown-ified like any other post. Yay markdown!
-Talk 2 on Relevant Topic in Your Field	Talk	talk-2	London School of Testing	2014-02-01	London, UK	http://example2.com	This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
-Conference Proceeding talk 3 on Relevant Topic in Your Field	Conference proceedings talk	talk-3	Testing Institute of America 2014 Annual Conference	2014-03-01	Los Angeles, CA		This is a description of your conference proceedings talk, note the different field in type. You can put anything in this field.
+CDC 2022	Conference Presentation	talk-1	Cancun	2022-12-10	Cancun, Q.Roo, MX		
+CDC 2023	Conference Presentation	talk-2	Singapore	2023-12-10	Singapore		
+CDC 2024	Conference Presentation	talk-3	Milano	2024-12-10	Milano, LO, IT		
+NESCW 2024	Poster Presentation	talk-4	University of Pennsylvania	2024-05-04	Philadelphia, PA, USA		
+JOLIM 2014	Outreach Workshop	outreach_ws_1	Universidade Estadual de Maringá	2014-10-18	Maringá, PR, BR		An 8h workshop for undergraduate students on how to use Arduino.
+SECOMP 2018	Outreach Workshop	outreach_ws_2	Universidade Estadual de Maringá	2018-09-08	Maringá, PR, BR		An 8h workshop for undergraduate students on how to use the ESP8266 for IoT.
+SEEL 2021	Outreach Talk	outreach_tk_1	(remote)	2021-04-21	Maringá, PR, BR		A 4h remote workshop for undergraduate students on how to use Julia, with some control system examples.
+HSMaringá 2024	Outreach Talk	outreach_tk_2	HackerSpace Maringá	2024-01-16	Maringá, PR, BR		A short talk about my research to undergraduate students.
