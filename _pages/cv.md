@@ -11,13 +11,18 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Electrical and Computer Engineering, University of Maryland - College Park, 2025 (expected)
+* Ph.D in Electrical and Computer Engineering, University of Maryland - College Park, 2025
 * B.Eng. in Electrical Engineering, Universidade Estadual de Maringá, 2017
 
 Work experience
 ======
-* 2021-now: Research Assistant - University of Maryland
-  * I do research on population games and evolutionary dynamics, both on properties of these frameworks and applications involving strategic interactions of a large number of agents.
+* 2025-2026: Postdoctoral Scholar - University of California, Santa Barbara
+  * Worked on smoothing for multi-target tracking 
+  * Supervisor: João P. Hespanha
+  
+
+* 2021-2025: Research Assistant - University of Maryland
+  * Researched population games and evolutionary dynamics, both on properties of these frameworks and applications involving strategic interactions of a large number of agents.
   * Advisor: Nuno C. Martins, Co-advisor: Richard J. La
   
 
@@ -25,10 +30,10 @@ Work experience
 *  2018-2019: Embedded Systems Engineer - MKD Tecnologia
    * Developed firmware and hardware for automation projects, mostly using C, working with ARM microcontrollers for low-power devices, ESP32 for Bluetooth communication and older architectures, such as 8051 and PIC16. 
    * I also did PCB layouts, reducing production cost and improving our products. During my time as developer the hardware cost was reduced by more than 20%. I also provided remote support to our technical team and clients.
-   * I did field support a few times for our automation producsts (travelling to remote farms!) 
-   * In another project, I wrote MikroTik scripts to maintain a hotspot service and configured FreeRadius as AAA, using the routers API through Python scripts to remote update the MikroTiks and monitor them.
+   * I did field support a few times for our automation products (travelling to remote farms!) 
+   * In another project, I wrote MikroTik scripts to maintain a hotspot service and configured FreeRadius as AAA, using the routers API through Python scripts to remotely update the MikroTiks and monitor them.
    * Configured Linux servers using Docker and developed Ionic companion apps for our embedded projects.
-   * Debugged and fixed our costumer's code that interface with our products (WPF C#, SQL, and PostgreSQL).
+   * Debugged and fixed our custumer's code that interface with our products (WPF C#, SQL, and PostgreSQL).
 
 
 * 2017-2018: Intern - Universidade Estadual de Maringá
@@ -88,11 +93,11 @@ Awards
 
 Service and leadership
 ======
-* HackerSpace Maringá - Dec 2012 - Present
+* HackerSpace Maringá - Dec 2012 - 2025
    * Co-founder 
    * Former vice-president.
 
-* ECEGSA - Aug 2021 - Present
+* ECEGSA - Aug 2021 - 2025
    * Board member
 
 * UMD ECE Undergraduate Affairs Committee - Jul 2022 - Jul 2024
